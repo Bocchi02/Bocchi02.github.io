@@ -362,3 +362,52 @@ small{
     padding: 5px;
     font-size: 14px;
 }
+
+
+/*--about.html--*/
+.front-logo{
+    max-width: 1300px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.front-logo img{
+    width: 150px;
+    margin-top: 20px;
+}
+
+.front-logo h1{
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+
+.front-logo h3{
+    margin-bottom: 75px;
+}
+
+.front-logo p{
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 225px;
+}
+
+.hymn{
+    background-color: rgb(173, 185, 252);
+    padding-left: 835px;
+    padding-right: 835px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: 5px solid white;
+
+}
+
+.abt-col-2 img{
+    max-width: 600px;
+}
+
+.hymn-vid{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: radial-gradient(white, rgb(116, 137, 255));
+}
