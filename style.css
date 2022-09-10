@@ -310,3 +310,49 @@ small{
     text-decoration: underline;
     color: #0027a9;
 }
+/*---end of footer--*/
+
+/*---products.html----*/
+.columnProd {
+    float: left;
+    width: 25%;
+    padding: 10px;
+    height: 400px; /* Should be removed. Only for demonstration */
+    background-color: transparent;
+    text-align: center;
+    border-style: solid;
+    border-width: thin;
+    border-color: #000000;
+    margin-right: 10px;
+  }
+  
+  /* Clear floats after the columns */
+  .rowProd:after {
+    content: "";
+    display: table;
+    clear: both;
+    box-sizing: border-box;
+}
+
+.rowProd {
+    margin-top: 15px;
+}
+
+.columnProd img{
+    transition: 0.5s;
+}
+
+.columnProd img:hover{
+    transform: translateY(-5px);
+    filter: brightness(105%); 
+}
+
+.columnProd h4:hover{
+    font-weight: bold;
+    text-decoration: underline;
+    color: #0027a9;
+}
+.columnProd p{
+    padding: 5px;
+    font-size: 14px;
+}
