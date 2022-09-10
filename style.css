@@ -465,3 +465,35 @@ small{
     list-style-type: disc;
     margin-left: 40px;
 }
+
+/*--contact.html--*/
+.rowCtact{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-basis: 50%;
+    margin-bottom: 325px;
+}
+
+
+
+.ctact-logo img{
+    width: 75px;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+
+/*--notavailable.html--*/
+.not-available{
+    margin-top: 50px;
+}
+
+.not-available h1{
+    margin-bottom: 50px;
+}
+
+.not-available img{
+    width: 250px;
+}
+
