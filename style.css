@@ -374,7 +374,7 @@ small{
 
 .front-logo img{
     width: 150px;
-    margin-top: 20px;
+    margin-top: 150px;
 }
 
 .front-logo h1{
@@ -389,7 +389,11 @@ small{
 .front-logo p{
     text-align: center;
     font-size: 20px;
-    margin-bottom: 225px;
+    margin-bottom: 195px;
+}
+
+.abt-page{
+    margin-bottom: 50px;
 }
 
 .hymn{
@@ -410,4 +414,54 @@ small{
     padding-top: 50px;
     padding-bottom: 50px;
     background: radial-gradient(white, rgb(116, 137, 255));
+}
+
+.me-col-2{
+    flex-basis: 50%;
+    min-width: 300px;
+}
+
+.me-col-2 img{
+    width: 400px;
+}
+
+.me-col-2 h1{
+    font-size: 50px;
+    margin-bottom: 10px;
+    font-weight: bolder;
+}
+
+.me-col-2 h2{
+    font-size: 30px;
+}
+
+.me-col-2 h3{
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.me-col-2 button{
+    margin-top: 10px;
+    padding: 7px 20px;
+    background-color: rgba(32, 84, 255, 0.7);
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+    font-size: 15px;
+}
+
+/*--privacypolicy.html---*/
+.pri-pol-content p{
+    margin-bottom: 15px;
+}
+
+.sub-title h2{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.pri-pol-content li{
+    list-style-type: disc;
+    margin-left: 40px;
 }
