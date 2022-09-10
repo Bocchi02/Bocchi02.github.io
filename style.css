@@ -352,6 +352,12 @@ small{
     text-decoration: underline;
     color: #0027a9;
 }
+
+.columnProd small{
+    padding: 5px;
+    font-size: 14px;
+}
+
 .columnProd p{
     padding: 5px;
     font-size: 14px;
