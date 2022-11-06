@@ -199,35 +199,3 @@ p {
     bottom: 49%;
     opacity: 1;
 }
-
-.course-title {
-    color: #555;
-}
-
-.course-title::after {
-    content: "";
-    background: #001f52;
-    width: 100px;
-    height: 5px;
-    border-radius: 5px;
-    position: absolute;
-    bottom: -150px;
-    left: 50%;
-    transform: translateX(-50%);
-}
-
-.our-campuses {
-    color: #555;
-}
-
-.our-campuses::after {
-    content: "";
-    background: #001f52;
-    width: 100px;
-    height: 5px;
-    border-radius: 5px;
-    position: absolute;
-    bottom: -1385px;
-    left: 50%;
-    transform: translateX(-50%);
-}
