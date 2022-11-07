@@ -25,7 +25,7 @@ a {
 }
 
 .main-button a {
-    background-color: #3a8bcd;
+    background-color: #001f52;
     border-radius: 5px;
     padding: 10px 15px;
     display: inline-block;
@@ -47,7 +47,7 @@ a {
 .section-heading .line-dec {
     width: 30px;
     height: 5px;
-    background-color: #3a8bcd;
+    background-color: #001f52;
 }
 .section-heading h1 {
     font-size: 22px;
@@ -58,7 +58,7 @@ a {
 
 /* Pre Header Style */
 #pre-header {
-    background-color: #3a8bcd;
+    background-color: #001f52;
     text-align: center;
 }
 #pre-header span {
@@ -151,7 +151,7 @@ a {
 .banner .caption .line-dec {
     width: 30px;
     height: 5px;
-    background-color: #3a8bcd;
+    background-color: #001f52;
 }
 .banner .caption p {
     margin-top: 15px;
@@ -211,7 +211,7 @@ a {
 
 /* Subscribe Style */
 .subscribe-form {
-    background-color: #3a8bcd;
+    background-color: #001f52;
     padding: 80px 0px;
     text-align: center;
 }
