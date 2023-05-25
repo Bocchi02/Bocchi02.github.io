@@ -77,20 +77,20 @@ export const personalInfo = [
 
     {
         id: 5,
-        title: "Freelance : ",
-        description: "Available",
+        title: "Birthday : ",
+        description: "July 20, 2002",
     },
 
     {
         id: 6,
         title: "Address : ",
-        description: "Albay, Philippines",
+        description: "P-1 Maninila, Camalig, Albay",
     },
 
     {
         id: 7,
         title: "Phone : ",
-        description: "+639280004689",
+        description: "+63 928 0004 689",
     },
 
     {
